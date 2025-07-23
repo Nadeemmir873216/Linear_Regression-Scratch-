@@ -38,11 +38,12 @@ Observe training outputs like weights, predictions, and error.
 
 
 📁 File Structure
-
-Linear_Regression-Scratch-/
-├── linearRegressionScikit.ipynb      # One feature implementation
-├── MultipleLinearRegression.ipynb   # Multi-feature implementation
-└── README.md
+   ```bash
+   Linear_Regression-Scratch-/
+   ├── linearRegressionScikit.ipynb      # One feature implementation
+   ├── MultipleLinearRegression.ipynb   # Multi-feature implementation
+   └── README.md
+   ```
 
 💡 Key Concepts Covered
 
